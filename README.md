@@ -1,3 +1,4 @@
+![Deprecated](views/Callout.png)
 
 ## Java Sample for OAuth
 
