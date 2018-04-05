@@ -1,5 +1,9 @@
 ![Deprecated](views/Callout.png)
 
+![SDK](views/SDK.png)
+
+![Sample](views/Sample.png)
+
 ## Java Sample for OAuth
 
 Welcome to the Intuit Developer's Java OAuth Sample App.
